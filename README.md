@@ -9,3 +9,8 @@ means not yet checked):
 
 Linked to publicly accessible digitized versions (scans or transcriptions)
 where available.
+
+Digital transcriptions from
+[潮汕方言俗曲唱本「潮州歌冊」書目](http://sunliong.acsite.org/chao-zhou-ge.htm)
+are no longer accessible at the original website, but have been archived at the
+Internet Archive’s Wayback Machine (links point to archive copy).
